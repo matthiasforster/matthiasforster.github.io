@@ -1,9 +1,8 @@
 ---
 title: "Willkommen"
 type: docs
-bookToC: false
 ---
 
-# Herzlich willkommen zu meinem Wiki
+# Wiser for KNX Apps Wiki
 
-Dies ist die Startseite. Du kannst hier Text, Bilder oder Links zu deinen Hauptkategorien einfügen.
+In diesem Wiki findet man technische Dokumentationen zu verschiedenen Wiser for KNX Apps.
