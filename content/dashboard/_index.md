@@ -5,3 +5,4 @@ bookCollapseSection: true
 ---
 # Dashboard App
 {{< subpages >}}
+![Dashboard](dashboard.png)
