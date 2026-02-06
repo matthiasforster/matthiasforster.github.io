@@ -1,3 +1,7 @@
+:root {
+  --color-link: #0055bb !important; /* Hier die gewünschte Farbe einfügen */
+}
+
 .book-footer {
     display: none !important;
 }
@@ -6,7 +10,26 @@
     background-color: #f6f6f6 !important;
 }
 
+.book-search input {
+    background-color: #ffffff !important;
+}
+
 code {
     color: var(--color-link) !important;
     background-color: var(--gray-200) !important;
+}
+
+h2, h3, h4 {
+    color: var(--color-link) !important;
+}
+
+.book-brand a {
+    color: #000000;
+}
+
+.markdown a[href]:visited {
+    color: var(--color-link) !important;
+}
+.markdown a[href]:hover {
+    text-decoration: none !important;
 }
